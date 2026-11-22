@@ -1,0 +1,33 @@
+{
+  "name": "سنین — پرو مجازی مزون",
+  "short_name": "سنین",
+  "description": "پرو مجازی مزون سنین — لباس شب به‌اندازه‌ی تو",
+  "lang": "fa",
+  "dir": "rtl",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7e8ee",
+  "theme_color": "#d81b60",
+  "start_url": ".",
+  "scope": ".",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
