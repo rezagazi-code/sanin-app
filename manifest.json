@@ -1,13 +1,13 @@
 {
   "name": "سنین — پرو مجازی مزون",
   "short_name": "سنین",
-  "description": "پرو مجازی مزون سنین — لباس شب به‌اندازه‌ی تو",
+  "description": "پرو مجازی لباس شب سنین: روی مانکنِ اندازه‌های خودت ببین و در واتساپ سفارش بده.",
   "lang": "fa",
   "dir": "rtl",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f7e8ee",
-  "theme_color": "#d81b60",
+  "background_color": "#f8f4ee",
+  "theme_color": "#2e4bc7",
   "start_url": ".",
   "scope": ".",
   "icons": [
